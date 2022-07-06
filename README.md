@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Ryan. I'm a combinatorial optimization researcher.
 - 🌱 I’m currently working on object detection and segmentation.
-- 👯 I’m looking to collaborate on solving combinatorial optimization questions with AI method
+- 👯 I’m looking to collaborate on solving combinatorial optimization questions with AI method.
