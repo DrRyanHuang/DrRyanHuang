@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Ryan. I'm a combinatorial optimization researcher.
-- 🌱 I’m currently working on object detection and segmentation.
-- 👯 I’m looking to collaborate on solving combinatorial optimization problems with AI method.
+- 👋 Hi, I' m Ryan. I'm a combinatorial optimization researcher.
+- 🌱 I' m currently working on object detection and segmentation.
+- 👯 I' m looking to collaborate on solving combinatorial optimization problems with AI method.
