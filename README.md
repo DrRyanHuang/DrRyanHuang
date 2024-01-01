@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 - 👯 I' m looking to collaborate on solving combinatorial optimization problems with AI method.
 
 
+
+
+### Spotify Playing 🎧
 <!---
 https://github.com/kittinan/spotify-github-profile
 -->
 
-
-### Spotify Playing 🎧
-
 <p align="center">
-  <a href="https://open.spotify.com/user/31th4lffjoit6upv73r4m7eo6eti" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31th4lffjoit6upv73r4m7eo6eti&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)https://spotify-github-profile.vercel.app/api/view?uid=31th4lffjoit6upv73r4m7eo6eti&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/user/31th4lffjoit6upv73r4m7eo6eti" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31th4lffjoit6upv73r4m7eo6eti&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="35%"/></a>
 </p>
