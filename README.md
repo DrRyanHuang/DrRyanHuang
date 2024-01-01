@@ -33,3 +33,15 @@ Here are some ideas to get you started:
 - 👋 Hi, I' m Ryan. I'm a combinatorial optimization researcher.
 - 🌱 I' m currently working on object detection and segmentation.
 - 👯 I' m looking to collaborate on solving combinatorial optimization problems with AI method.
+
+
+<!---
+https://github.com/kittinan/spotify-github-profile
+-->
+
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31th4lffjoit6upv73r4m7eo6eti" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31th4lffjoit6upv73r4m7eo6eti&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)https://spotify-github-profile.vercel.app/api/view?uid=31th4lffjoit6upv73r4m7eo6eti&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"/></a>
+</p>
