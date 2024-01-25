@@ -30,11 +30,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I' m Ryan. I'm a combinatorial optimization researcher.
-- 🌱 I' m currently working on object detection and segmentation.
-- 👯 I' m looking to collaborate on solving combinatorial optimization problems with AI method.
+- 👋 <i>Hi, I' m Ryan. I'm a combinatorial optimization researcher.</i>
+- 🌱 <i>I' m currently working on object detection and segmentation.</i>
+- 👯 <i>I' m looking to collaborate on solving combinatorial optimization problems with AI method.</i>
 
-
+<!--
+### Internships 💻
+<i>
+Sep 2021 - Feb 2022, Baidu, Deep Learning Technology Platform, Beijing China. </br>
+Feb 2022 - Aug 2022, China Mobile Research Institute, Beijing China. </br>
+Sep 2022 - Dec 2022, NIO, Autonomous Driving Department, Beijing China. 
+</i>
+-->
 
 
 ### Spotify Playing 🎧
