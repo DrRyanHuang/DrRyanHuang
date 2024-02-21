@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 - 👋 <i>Hi, I' m Ryan. I'm a combinatorial optimization researcher.</i>
 - 🌱 <i>I' m currently working on object detection and segmentation.</i>
 - 👯 <i>I' m looking to collaborate on solving combinatorial optimization problems with AI method.</i>
 
-<!--
+
 ### Internships 💻
 <i>
 Sep 2021 - Feb 2022, Baidu, Deep Learning Technology Platform, Beijing China. </br>
