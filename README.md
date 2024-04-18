@@ -42,6 +42,18 @@ Sep 2022 - Dec 2022, NIO, Autonomous Driving Department, Beijing China.
 </i>
 -->
 
+### Steam Status 🎮
+
+<!---
+https://github.com/yuyinws/steam-card
+https://cardn.yuy1n.io/
+-->
+
+<p align="center">
+  <a href="https://steamcommunity.com/profiles/76561199081632471" target="_blank"><img src="https://card.yuy1n.io/card/76561199081632471/dark,en,badge,group,bg-game-412830" alt="Steam Status" width="40%"/></a>
+</p>
+
+
 ### Spotify Playing 🎧
 
 <!---
