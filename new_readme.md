@@ -1,5 +1,5 @@
 <!-- background image -->
-<img align="right" src="Frieren/Frieren_watch.png" width='300px' alt="芙莉莲">
+<img align="right" src="Frieren/Frieren_watch.png" width='270px' alt="芙莉莲">
 
 <!-- Section : Introduction -->
 ## Hi <img src="emoji/giphy.gif" width="25px">
@@ -55,14 +55,14 @@ Sep 2022 - Dec 2022, NIO, Autonomous Driving, Beijing China.
 </i>
 
 
-<!-- <img align="right" src="Frieren/Frieren_look_back.png" width='250px' alt="芙莉莲"> -->
-<img align="right" src="Frieren/Frieren_look_back.png" style="max-width: min(250px, 35%);" alt="芙莉莲">
+<img align="right" src="Frieren/Frieren_look_back.png" width='270px' alt="芙莉莲">
+<!-- <img align="right" src="Frieren/Frieren_look_back.png" style="max-width: min(250px, 35%);" alt="芙莉莲"> -->
 
 
 ## Github Stats 📊
 
 <p align="left">
-    <a href="https://github.com/DrRyanHuang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrRyanHuang&show_icons=true&theme=tokyonight&hide_border=true" alt="DrRyanHuang's github stats" width='65%'/></a>
+    <a href="https://github.com/DrRyanHuang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrRyanHuang&show_icons=true&theme=tokyonight&hide_border=true" alt="DrRyanHuang's github stats" width="60%"/></a>
 </p>
 
 
