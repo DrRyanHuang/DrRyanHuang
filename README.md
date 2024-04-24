@@ -14,10 +14,10 @@
 
 ## About me 📝
 
-👋 <i>Hi there! I'm Ryan, a passionate game development newbie.</i> 🎮💻</br>
-🌱 <i>At the moment, I'm working on creating a card game using the Godot engine.</i> 🃏🎴</br>
-🔍 <i>Previously, I worked on object detection and model deployment projects.</i> 📦</br>
-🚀 <i>Now, I'm excited to explore the interesting possibilities of AI in game engine development.</i> 🤖🕹️
+👋 <i>Hey there! I'm Ryan, a game dev enthusiast and novice.</i> 🎮💻</br>
+🌱 <i>Currently building a card game with Godot engine.</i> 🃏🎴</br>
+🔍 <i>Used to work on object detection and model deployment.</i> 📦</br>
+🚀 <i>Excited to dive into AI-powered game engines and cook up some cool stuff!</i> 🤖🕹️
 
 
 <!-- Section : Social -->
@@ -46,14 +46,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
 
 
-
+<!-- 
 ## Internships 💻
 <i>
 Sep 2021 - Feb 2022, Baidu, Deep Learning Technology Platform, Beijing China. </br>
 Feb 2022 - Aug 2022, China Mobile Research Institute, Beijing China. </br>
 Sep 2022 - Dec 2022, NIO, Autonomous Driving, Beijing China.
 </i>
-
+ -->
 
 <img align="right" src="Frieren/Frieren_look_back.png" width='249px' alt="芙莉莲">
 <!-- <img align="right" src="Frieren/Frieren_look_back.png" style="max-width: min(250px, 35%);" alt="芙莉莲"> -->
