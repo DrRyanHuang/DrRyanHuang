@@ -1,22 +1,6 @@
-<!--
--- 被注释
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrRyanHuang)](https://github.com/anuraghazra/github-readme-stats)
--->
+### Hi <img src="emoji/giphy.gif" width="25px">
 
 <!--
-| <a href="https://github.com/DrRyanHuang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrRyanHuang&show_icons=true&theme=tokyonight&hide_border=true" alt="DrRyanHuang's github stats" /></a> | <a href="https://github.com/DrRyanHuang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrRyanHuang&layout=compact&theme=tokyonight&hide_border=true&hide=TeX" /></a> |
-| ------------- | ------------- |
--->
-
-<a href="https://github.com/DrRyanHuang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrRyanHuang&show_icons=true&theme=tokyonight&hide_border=true" alt="DrRyanHuang's github stats" /></a>
-
-<!--
--- 被注释
-### Hi there 👋
-
-**DrRyanHuang/DrRyanHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,9 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<!--
+
 - 👋 <i>Hi, I' m Ryan. I'm a combinatorial optimization researcher.</i>
 - 🌱 <i>I' m currently working on object detection and segmentation.</i>
 - 👯 <i>I' m looking to collaborate on solving combinatorial optimization problems with AI method.</i>
@@ -42,6 +25,28 @@ Sep 2022 - Dec 2022, NIO, Autonomous Driving Department, Beijing China.
 </i>
 -->
 
+### Languages and Tools 🛠️
+
+<p align="center">
+    <code><img height="20" src="icon/c.png" alt="c"></code>
+    <code><img height="20" src="icon/cpp.png" alt="cpp"></code>
+    <code><img height="20" src="icon/lua.png" alt="lua"></code>
+    <code><img height="20" src="icon/python.png" alt="python"></code>
+    <code><img height="20" src="icon/windows.png" alt="windows"></code>
+    <code><img height="20" src="icon/linux.png" alt="linux"></code>
+    <code><img height="20" src="icon/raspberry-pi.png" alt="raspberry-pi"></code>
+    <code><img height="20" src="icon/visual-studio-code.png" alt="visual-studio-code"></code>
+    <code><img height="20" src="icon/godot.png" alt="godot"></code>
+    <code><img height="20" src="icon/vim.png" alt="vim"></code>
+    <code><img height="20" src="icon/latex.png" alt="latex"></code>
+</p>
+
+### Github Stats 📊
+
+<p align="center">
+    <a href="https://github.com/DrRyanHuang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrRyanHuang&show_icons=true&theme=tokyonight&hide_border=true" alt="DrRyanHuang's github stats" /></a>
+</p>
+
 ### Steam Status 🎮
 
 <!---
@@ -50,9 +55,8 @@ https://cardn.yuy1n.io/
 -->
 
 <p align="center">
-  <a href="https://steamcommunity.com/profiles/76561199081632471" target="_blank"><img src="https://card.yuy1n.io/card/76561199081632471/dark,en,badge,group,bg-game-412830" alt="Steam Status" width="55%"/></a>
+    <a href="https://steamcommunity.com/profiles/76561199081632471" target="_blank"><img src="https://card.yuy1n.io/card/76561199081632471/dark,en,badge,group,bg-game-412830" alt="Steam Status" width="55%"/></a>
 </p>
-
 
 ### Spotify Playing 🎧
 
@@ -61,7 +65,7 @@ https://github.com/kittinan/spotify-github-profile
 -->
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31th4lffjoit6upv73r4m7eo6eti" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31th4lffjoit6upv73r4m7eo6eti&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="45%"/></a>
+    <a href="https://open.spotify.com/user/31th4lffjoit6upv73r4m7eo6eti" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31th4lffjoit6upv73r4m7eo6eti&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="45%"/></a>
 </p>
 
 ### Previously Watched Anime 📽️
