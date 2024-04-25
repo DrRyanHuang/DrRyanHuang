@@ -55,7 +55,7 @@ Sep 2022 - Dec 2022, NIO, Autonomous Driving, Beijing China.
 </i>
  -->
 
-<img align="right" src="Frieren/Frieren_look_back.png" width='249px' alt="芙莉莲">
+<img align="right" src="Frieren/Frieren_cry.png" width='249px' alt="芙莉莲">
 <!-- <img align="right" src="Frieren/Frieren_look_back.png" style="max-width: min(250px, 35%);" alt="芙莉莲"> -->
 
 
@@ -88,6 +88,21 @@ https://cardn.yuy1n.io/
 <p align="center">
     <a href="https://steamcommunity.com/profiles/76561199081632471" target="_blank"><img src="https://card.yuy1n.io/card/76561199081632471/dark,en,badge,group,bg-game-412830" alt="Steam Status" width="55%"/></a>
 </p>
+
+
+<!---
+## Top Repositories
+
+<div align="center">
+	<a href="https://github.com/DrRyanHuang/bilibiliTool">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drryanhuang&repo=rpgmvp2png&theme=buefy" />
+	</a>
+	<a href="https://github.com/DrRyanHuang/rpgmvp2png">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drryanhuang&repo=bilibiliTool&theme=buefy" />
+	</a>
+</div>
+-->
+
 
 
 <!-- Section : Bangumi -->
