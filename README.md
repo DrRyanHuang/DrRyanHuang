@@ -119,7 +119,7 @@ https://cardn.yuy1n.io/
 ## Previously Watched Anime 📽️
 
 <p align="center">
-    <a href="" target="_blank"><img src="https://github.com/DrRyanHuang/bangumi-anime/blob/main/status.svg" alt="bangumi Status" width="90%"/></a>
+    <a href="" target="_blank"><img src="https://github.com/DrRyanHuang/bangumi-anime/blob/main/status.svg" alt="bangumi Status" width="85%"/></a>
 </p>
 
 <img align="left" src="Frieren/Frieren_sleep.png" width='200px' alt="芙莉莲">
