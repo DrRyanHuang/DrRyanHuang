@@ -105,19 +105,23 @@ https://cardn.yuy1n.io/
 
 
 
-<!-- Section : Bangumi -->
+<!---
 <details>
 	<summary><strong>bangumi.tv</strong></summary>
 
 |Bangumi.TV|
 |------|
-|![bangumi](https://github.com/DrRyanHuang/bangumi-action/blob/main/bgm/card.svg)|
+|![bangumi](https://github.com/DrRyanHuang/bangumi-anime/blob/main/status.svg)|
 </details>
+-->
 
+<!-- Section : Bangumi -->
+## Previously Watched Anime 📽️
 
+<p align="center">
+    <a href="" target="_blank"><img src="https://github.com/DrRyanHuang/bangumi-anime/blob/main/status.svg" alt="bangumi Status" width="90%"/></a>
+</p>
 
-
-
-<img align="lefet" src="Frieren/Frieren_sleep.png" width='200px' alt="芙莉莲">
+<img align="left" src="Frieren/Frieren_sleep.png" width='200px' alt="芙莉莲">
 
 
