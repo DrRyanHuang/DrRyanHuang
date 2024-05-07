@@ -3,9 +3,9 @@
 
 <!-- Section : Introduction -->
 ## Hi <img src="emoji/giphy.gif" width="25px">
->_Stay Hungry, Stay Foolish_ <br>
 
-
+<!-- https://readme-typing-svg.demolab.com/demo/  -->
+[![Stay Hungry, Stay Foolish](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&random=false&width=435&height=21&lines=Stay+Hungry%2C+Stay+Foolish)](https://git.io/typing-svg)
 <!-- Section : Visitors & last-commit & followers -->
 ![lastcommit](https://img.shields.io/github/last-commit/drryanhuang/drryanhuang?logo=GitHub&style=flat-square)
 ![stars](https://img.shields.io/github/stars/drryanhuang?logo=Github&style=flat-square)
