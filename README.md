@@ -46,14 +46,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
 
 
-<!-- 
+
 ## Internships 💻
 <i>
 Sep 2021 - Feb 2022, Baidu, Deep Learning Technology Platform, Beijing China. </br>
 Feb 2022 - Aug 2022, China Mobile Research Institute, Beijing China. </br>
 Sep 2022 - Dec 2022, NIO, Autonomous Driving, Beijing China.
 </i>
- -->
+
 
 <img align="right" src="Frieren/Frieren_cry.png" width='249px' alt="芙莉莲">
 <!-- <img align="right" src="Frieren/Frieren_look_back.png" style="max-width: min(250px, 35%);" alt="芙莉莲"> -->
