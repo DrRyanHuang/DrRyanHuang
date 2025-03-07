@@ -66,6 +66,7 @@ Sep 2022 - Dec 2022, NIO, Autonomous Driving, Beijing China.
 </p>
 
 
+<!---
 ## Spotify Playing 🎧
 
 <!---
@@ -124,4 +125,4 @@ https://cardn.yuy1n.io/
 
 <img align="left" src="Frieren/Frieren_sleep.png" width='200px' alt="芙莉莲">
 
-
+-->
