@@ -34,26 +34,28 @@
 ![Python](https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 <br/>
-![VSCode](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat-square&logo=godotengine&logoColor=fff)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-f39c12.svg?style=flat-square&logo=typst&logoColor=white)
 <br/>
 ![windows](https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Termux](https://img.shields.io/badge/Termux-A8C400?style=flat-square&logo=termux&logoColor=white)
+<br>
+![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat-square&logo=godotengine&logoColor=fff)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 <br>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=Html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
 
-
-
+<!--
 ## Internships 💻
 <i>
 Sep 2021 - Feb 2022, Baidu, Deep Learning Technology Platform, Beijing China. </br>
 Feb 2022 - Aug 2022, China Mobile Research Institute, Beijing China. </br>
 Sep 2022 - Dec 2022, NIO, Autonomous Driving, Beijing China.
 </i>
-
+-->
 
 <img align="right" src="Frieren/Frieren_cry.png" width='249px' alt="芙莉莲">
 <!-- <img align="right" src="Frieren/Frieren_look_back.png" style="max-width: min(250px, 35%);" alt="芙莉莲"> -->
